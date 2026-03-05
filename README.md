@@ -7,7 +7,7 @@ Civil Engineer | Planning Engineer | Data & Automation for Project Controls
 I'm a Civil Engineer and Planning Engineer building data and automation solutions for project controls.
 
 * 🌍 I'm based in the Netherlands
-* ✉️ You can contact me at [laolugbotoso@yahoo.com](mailto:laolugbotoso@yahoo.com)
+* ✉️ You can contact me at [laolugbotoso@yahoo.com](mailto:laolugbotoso@gfri.nl)
 * 🧠 I'm learning Python for data analytics, automation, and machine learning
 * ⚙️ Currently building tools for schedule analytics and Primavera P6 data workflows
 * 🤝 I'm open to collaborating on data, automation, and project controls projects
